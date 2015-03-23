@@ -12,3 +12,6 @@ http://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository#_git_basics_ch
 
 #merge conflict
 http://stackoverflow.com/questions/6006737/git-merge-errors
+
+#push to deploy
+http://glennstovall.com/blog/2013/03/15/how-i-use-git/
