@@ -9,3 +9,6 @@ http://betterexplained.com/articles/aha-moments-when-learning-git/
 http://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository#_git_basics_chapter
 
 #release-1 branch
+
+#merge conflict
+http://stackoverflow.com/questions/6006737/git-merge-errors
